@@ -36,3 +36,8 @@
 
 ## 병역
 - 21년 10월에 군대갑니다 ㅠ
+
+## Environment
+- Ubuntu 20.04 on (WSL) Windows 10 Pro [My Ryzen Desktop]
+- zsh, clang, and gcc(use x86_64-linux, risc-v, and arch64 cross-complier) on macOS 11.1 [MacBook Pro 2017 13"]
+- Github Dark Theme on Visual Studio Code (대부분 VSC 만을 사용)
