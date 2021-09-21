@@ -23,7 +23,7 @@
 - 붓싼 사람입니다~ ~~**구(중요)** 롯데 자이언츠 팬~~
 
 ### 요즘은 무슨 프로젝트를 하고 있냐고요?
-- [Light-BoSio](https://github.com/VARZero/Light-BoSio) 라는 Reality 기반 창 관리자를 만드는 프로젝트!
+- [Light_BoSio](https://github.com/VARZero/Light_BoSio) 라는 Reality 기반 창 관리자를 만드는 프로젝트!
 - [MakeModCpu16](https://github.com/VARZero/MakeModCpu16) 이라는 16비트 CPU를 직접 구현해 보는 프로젝트!
 를 하고 있습니다.
 
