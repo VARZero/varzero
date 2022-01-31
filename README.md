@@ -35,7 +35,7 @@
 ### 그러기 위해서는 실력도 지식도 많이 쌓아야 겠죠? 노력하고 있습니다!
 
 ## 병역
-- 21년 10월에 군대갑니다 ㅠ
+- 21년 10월~23년 4월 ROKA
 
 ## Environment
 - Ubuntu 20.04 on (WSL) Windows 10 Pro [My Ryzen Desktop]
