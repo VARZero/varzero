@@ -1,5 +1,8 @@
 ### 방갑습니당~ Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VARZero&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VARZero&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 저는 어떤 사람이냐고요?
 본명은 신성민, 생년은 2001년입니당~ 참고로 남성입니다. 아직 철이 덜 들어서 말투가 좀 그래요;;
 
