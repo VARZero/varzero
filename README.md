@@ -1,5 +1,5 @@
 ### 방갑습니당~ Hi there 👋
-
+![var zero](./var%20zero.png)
 ## VARZero는 뭔 뜻인가요?
 VARZero는 깃헙에서 띄어쓰기가 안되어서 VAR Zero를 뿥힌것이고,<br>
 VAR Zero는 var zero와 같은 의미입니다. 그러니까, 그냥 zero라는 이름의 변수를 하나 선언한겁니다.<br>
