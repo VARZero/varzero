@@ -12,7 +12,7 @@ VAR Zero는 var zero와 같은 의미입니다. 그러니까, 그냥 zero라는 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VARZero&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 저는 어떤 사람이냐고요?
-본명은 신성민, 생년은 2001년입니당~ 참고로 남성입니다. 아직 철이 덜 들어서 말투가 좀 그래요;;
+본명은 신성민, 생년은 2001년입니다.
 
 ### 먼저 저의 관심분야부터 말해보자면
 - 운영체계 ( 리눅스와 FreeBSD에 관심을 가지고 있어요! 시간이 나면 리눅스 구조를 공부해볼 예정이에요! )
@@ -30,14 +30,10 @@ VAR Zero는 var zero와 같은 의미입니다. 그러니까, 그냥 zero라는 
 - 요즘 가장 열심히 하는 **Verilog**! (21년 기준 ㅎㅎ)
 
 ### 깃헙에 굳이 있을 필요는 없으나 잡설을 한다면
-- 소심해요ㅠㅠ 성격 바꾸는 중
 - 꽂히는게 있으면 주구장창 팝니다.
-- 붓싼 사람입니다~ ~~**구(중요)** 롯데 자이언츠 팬~~
 
 ### 요즘은 무슨 프로젝트를 하고 있냐고요?
-- [Light_BoSio](https://github.com/VARZero/Light_BoSio) 라는 Reality 기반 창 관리자를 만드는 프로젝트!
-- [MakeModCpu16](https://github.com/VARZero/MakeModCpu16) 이라는 16비트 CPU를 직접 구현해 보는 프로젝트!
-를 하고 있습니다.
+휴식중..
 
 ## 저의 꿈은 무엇일까요?
 - FPGA 가속기를 활용하는 클라우드 관련 종사자
@@ -45,12 +41,3 @@ VAR Zero는 var zero와 같은 의미입니다. 그러니까, 그냥 zero라는 
 - 거대한 플랫폼이나 거대한 MMO 게임(개인적으로 MMORPG는 별로라 생각하는데.. RPG 계열은 안좋아해요) 서버를 만드는 개발자
 가 되고 싶습니다.
 ### 그러기 위해서는 실력도 지식도 많이 쌓아야 겠죠? 노력하고 있습니다!
-
-## 병역
-- 21년 10월~23년 4월 ROKA
-군에 있으면서 16비트 isa를 설계하고 간단한 임베디드 시스템을 구상, 설계해 보는것이 목푭니다.
-
-## Environment
-- Ubuntu 20.04 on (WSL) Windows 11 Pro [My Ryzen Desktop]
-- --zsh, clang, and gcc(use x86_64-linux, risc-v, and arch64 cross-complier) on macOS 11.1 [MacBook Pro 2017 13"]-- 지금 없음
-- Github Dark Theme on Visual Studio Code (대부분 VSC 만을 사용)
